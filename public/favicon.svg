@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#211d1a"/>
+  <text x="7" y="43"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="25"
+        font-weight="700"
+        letter-spacing="-2"
+        fill="#f2eee6">be</text>
+  <text x="27" y="52"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="900"
+        letter-spacing="-4"
+        fill="#71383a">U</text>
+</svg>
